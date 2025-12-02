@@ -1,0 +1,11 @@
+{
+  "flow" : {
+    "createdTimestamp" : 1764706326891,
+    "description" : "Das ist ein Beispielflow.",
+    "identifier" : "demo-bsp",
+    "lastModifiedTimestamp" : 1764706326891,
+    "name" : "demo-bsp",
+    "versionCount" : 0
+  },
+  "latest" : false
+}
