@@ -121,6 +121,14 @@
     }, {
       "componentType" : "FUNNEL",
       "groupIdentifier" : "flow-contents-group",
+      "identifier" : "0ed18c1b-b5e0-3202-a173-be7b6211f91d",
+      "position" : {
+        "x" : 794.0922890049812,
+        "y" : -79.39243551818959
+      }
+    }, {
+      "componentType" : "FUNNEL",
+      "groupIdentifier" : "flow-contents-group",
       "identifier" : "11768211-2c8f-390a-8a69-c118f48464f7",
       "position" : {
         "x" : -472.0,
@@ -471,6 +479,6 @@
   "snapshotMetadata" : {
     "author" : "admin",
     "flowIdentifier" : "einfach-processors-achref",
-    "timestamp" : 1764754408776
+    "timestamp" : 1764754459044
   }
 }
