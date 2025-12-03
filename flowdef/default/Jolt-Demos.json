@@ -1,0 +1,11 @@
+{
+  "flow" : {
+    "createdTimestamp" : 1764753645488,
+    "description" : "Dieser Flow zeigt alle Jolt-Demos zum Grundlagenseminar.",
+    "identifier" : "Jolt-Demos",
+    "lastModifiedTimestamp" : 1764753645488,
+    "name" : "Jolt-Demos",
+    "versionCount" : 0
+  },
+  "latest" : false
+}
